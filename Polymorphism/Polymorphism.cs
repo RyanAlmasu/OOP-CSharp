@@ -1,5 +1,3 @@
-using System.Security.Cryptography.X509Certificates;
-
 public class Animal
 {
     public string Name { get; set; }
@@ -8,9 +6,11 @@ public class Animal
         Name = name;
     }
     public virtual void MakeSound()
-    {
-    
-    }
+    {}
+    public virtual void Walk()
+    {}
+    public virtual void Eat()
+    {}
 }
 public class Dog : Animal 
 {
@@ -18,6 +18,10 @@ public class Dog : Animal
     public override void MakeSound()
     {
         Console.WriteLine($" {Name} says Woof!");
+    }
+    public override void Walk()
+    {
+        Console.WriteLine("Dog might running around");
     }
 }
 public class Cat : Animal
@@ -27,6 +31,10 @@ public class Cat : Animal
     {
         Console.WriteLine($" {Name} says Meow!");
     }
+    public override void Walk()
+    {
+        Console.WriteLine("Cat might jumping around");
+    }
 }
 public class Cow : Animal 
 {
@@ -34,5 +42,9 @@ public class Cow : Animal
     public override void MakeSound()
     {
         Console.WriteLine($"{Name} says Moo!");
+    }
+    public override void Walk()
+    {
+        Console.WriteLine("Cow might running slowly");
     }
 }

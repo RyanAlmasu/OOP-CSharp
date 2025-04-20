@@ -14,6 +14,7 @@
         foreach( Animal animal in animals)
         {
             animal.MakeSound();
+            animal.Walk();
         }
 
 
