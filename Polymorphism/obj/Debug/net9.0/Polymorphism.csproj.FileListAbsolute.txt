@@ -1,0 +1,15 @@
+D:\Formulatrix\OOPAdv\Polymorphism\bin\Debug\net9.0\Polymorphism.exe
+D:\Formulatrix\OOPAdv\Polymorphism\bin\Debug\net9.0\Polymorphism.deps.json
+D:\Formulatrix\OOPAdv\Polymorphism\bin\Debug\net9.0\Polymorphism.runtimeconfig.json
+D:\Formulatrix\OOPAdv\Polymorphism\bin\Debug\net9.0\Polymorphism.dll
+D:\Formulatrix\OOPAdv\Polymorphism\bin\Debug\net9.0\Polymorphism.pdb
+D:\Formulatrix\OOPAdv\Polymorphism\obj\Debug\net9.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\Formulatrix\OOPAdv\Polymorphism\obj\Debug\net9.0\Polymorphism.AssemblyInfoInputs.cache
+D:\Formulatrix\OOPAdv\Polymorphism\obj\Debug\net9.0\Polymorphism.AssemblyInfo.cs
+D:\Formulatrix\OOPAdv\Polymorphism\obj\Debug\net9.0\Polymorphism.csproj.CoreCompileInputs.cache
+D:\Formulatrix\OOPAdv\Polymorphism\obj\Debug\net9.0\Polymorphism.sourcelink.json
+D:\Formulatrix\OOPAdv\Polymorphism\obj\Debug\net9.0\Polymorphism.dll
+D:\Formulatrix\OOPAdv\Polymorphism\obj\Debug\net9.0\refint\Polymorphism.dll
+D:\Formulatrix\OOPAdv\Polymorphism\obj\Debug\net9.0\Polymorphism.pdb
+D:\Formulatrix\OOPAdv\Polymorphism\obj\Debug\net9.0\Polymorphism.genruntimeconfig.cache
+D:\Formulatrix\OOPAdv\Polymorphism\obj\Debug\net9.0\ref\Polymorphism.dll
