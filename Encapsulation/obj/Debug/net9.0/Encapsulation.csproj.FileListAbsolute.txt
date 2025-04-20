@@ -1,0 +1,15 @@
+D:\Formulatrix\OOPAdv\Encapsulation\obj\Debug\net9.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Formulatrix\OOPAdv\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfoInputs.cache
+D:\Formulatrix\OOPAdv\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfo.cs
+D:\Formulatrix\OOPAdv\Encapsulation\obj\Debug\net9.0\Encapsulation.csproj.CoreCompileInputs.cache
+D:\Formulatrix\OOPAdv\Encapsulation\obj\Debug\net9.0\Encapsulation.sourcelink.json
+D:\Formulatrix\OOPAdv\Encapsulation\bin\Debug\net9.0\Encapsulation.exe
+D:\Formulatrix\OOPAdv\Encapsulation\bin\Debug\net9.0\Encapsulation.deps.json
+D:\Formulatrix\OOPAdv\Encapsulation\bin\Debug\net9.0\Encapsulation.runtimeconfig.json
+D:\Formulatrix\OOPAdv\Encapsulation\bin\Debug\net9.0\Encapsulation.dll
+D:\Formulatrix\OOPAdv\Encapsulation\bin\Debug\net9.0\Encapsulation.pdb
+D:\Formulatrix\OOPAdv\Encapsulation\obj\Debug\net9.0\Encapsulation.dll
+D:\Formulatrix\OOPAdv\Encapsulation\obj\Debug\net9.0\refint\Encapsulation.dll
+D:\Formulatrix\OOPAdv\Encapsulation\obj\Debug\net9.0\Encapsulation.pdb
+D:\Formulatrix\OOPAdv\Encapsulation\obj\Debug\net9.0\Encapsulation.genruntimeconfig.cache
+D:\Formulatrix\OOPAdv\Encapsulation\obj\Debug\net9.0\ref\Encapsulation.dll

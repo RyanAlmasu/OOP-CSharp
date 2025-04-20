@@ -4,7 +4,7 @@ public class Food : Product
     public double _totalFat {get; set;}   
 
     public double _totalProtein {get; set ;}
-    public Food( int id, string name, double price, int quantity, string productName, int day, int expire , double totalFat, double totalProtein )
+    public Food( int id, string name, double price, int quantity, string productName, int day, int expire , double totalFat, double totalProtein ) 
     : base(id, name, price, quantity, productName, day)
     {
         _Expired = expire;
