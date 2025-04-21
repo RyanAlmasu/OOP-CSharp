@@ -1,0 +1,15 @@
+D:\Formulatrix\OOPAdv\WhateverBro\LLMTask\AnimalSoundSimulator\bin\Debug\net9.0\AnimalSoundSimulator.exe
+D:\Formulatrix\OOPAdv\WhateverBro\LLMTask\AnimalSoundSimulator\bin\Debug\net9.0\AnimalSoundSimulator.deps.json
+D:\Formulatrix\OOPAdv\WhateverBro\LLMTask\AnimalSoundSimulator\bin\Debug\net9.0\AnimalSoundSimulator.runtimeconfig.json
+D:\Formulatrix\OOPAdv\WhateverBro\LLMTask\AnimalSoundSimulator\bin\Debug\net9.0\AnimalSoundSimulator.dll
+D:\Formulatrix\OOPAdv\WhateverBro\LLMTask\AnimalSoundSimulator\bin\Debug\net9.0\AnimalSoundSimulator.pdb
+D:\Formulatrix\OOPAdv\WhateverBro\LLMTask\AnimalSoundSimulator\obj\Debug\net9.0\AnimalSoundSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Formulatrix\OOPAdv\WhateverBro\LLMTask\AnimalSoundSimulator\obj\Debug\net9.0\AnimalSoundSimulator.AssemblyInfoInputs.cache
+D:\Formulatrix\OOPAdv\WhateverBro\LLMTask\AnimalSoundSimulator\obj\Debug\net9.0\AnimalSoundSimulator.AssemblyInfo.cs
+D:\Formulatrix\OOPAdv\WhateverBro\LLMTask\AnimalSoundSimulator\obj\Debug\net9.0\AnimalSoundSimulator.csproj.CoreCompileInputs.cache
+D:\Formulatrix\OOPAdv\WhateverBro\LLMTask\AnimalSoundSimulator\obj\Debug\net9.0\AnimalSoundSimulator.sourcelink.json
+D:\Formulatrix\OOPAdv\WhateverBro\LLMTask\AnimalSoundSimulator\obj\Debug\net9.0\AnimalSoundSimulator.dll
+D:\Formulatrix\OOPAdv\WhateverBro\LLMTask\AnimalSoundSimulator\obj\Debug\net9.0\refint\AnimalSoundSimulator.dll
+D:\Formulatrix\OOPAdv\WhateverBro\LLMTask\AnimalSoundSimulator\obj\Debug\net9.0\AnimalSoundSimulator.pdb
+D:\Formulatrix\OOPAdv\WhateverBro\LLMTask\AnimalSoundSimulator\obj\Debug\net9.0\AnimalSoundSimulator.genruntimeconfig.cache
+D:\Formulatrix\OOPAdv\WhateverBro\LLMTask\AnimalSoundSimulator\obj\Debug\net9.0\ref\AnimalSoundSimulator.dll

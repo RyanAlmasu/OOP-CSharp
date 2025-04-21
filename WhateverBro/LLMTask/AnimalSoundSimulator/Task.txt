@@ -1,0 +1,30 @@
+ Task: Animal Sound Simulator
+You are tasked with designing a simple Animal Sound Simulator. The program should simulate different animals and the sounds they make using interfaces and inheritance.
+
+Requirements:
+Create an Interface called ISound that includes a method:
+
+MakeSound(): to print or return the sound the animal makes.
+
+Create a Base Class called Animal that includes:
+
+A property for the animal's name.
+
+A method Describe() that returns the name of the animal.
+
+Create Derived Classes for at least three animals (e.g., Dog, Cat, Cow) that:
+
+Inherit from Animal.
+
+Implement the ISound interface.
+
+Provide specific implementation of MakeSound().
+
+Write a function to:
+
+Instantiate the animals.
+
+Store them in a list or array of type Animal or ISound.
+
+Loop through and call Describe() and MakeSound() on each.
+
